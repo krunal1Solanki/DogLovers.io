@@ -1,0 +1,125 @@
+
+/*
+@media (max-width : 1028px) {
+
+}
+*/
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-group {
+    padding-top: 3rem;
+}
+.gym {
+     border-radius: 100%;
+}
+#title {
+
+    background-color: #5CDB95;
+    padding-bottom: 2rem;
+}
+#features {
+    
+    padding: 10rem 10.8rem 1rem 10.8rem;
+    text-align: center;
+    padding-top: 175px;
+    background-color: #dbece3;
+    height: 500px;   
+}
+
+.icon {
+    color: #5CDB95;
+    margin-bottom: 1.2rem;
+}
+.price-head {
+
+    text-align: center;
+}
+.icon:hover{
+    color : #26f182;
+}
+
+
+#features h3 {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+.nav-link {
+    color: #05386B;
+    text-decoration: none;
+}
+
+.move h1 {
+    font-size: 3.5rem;
+    margin-bottom: 23px;
+    line-height:50px;
+}
+.move {
+    padding : 3% 15%;
+}
+
+.move img {
+    
+    width: 48%;    
+    border-radius: 70%;
+}
+
+.navbar-brand {
+    font-size: 1.7rem;
+}
+
+#pricing {
+    
+    background-color: #dbece3;
+    
+}
+/* testimonials */
+
+
+#testimonials h2{
+    margin-top: 3rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-bottom: 1rem;
+    font-family:'Montserrat-Bold';
+    line-height: 1.3;
+    font-size: 2.5rem ;
+}
+#testimonials {
+    background-color:  #5CDB95;
+    text-align: center;
+    padding : 3% 15%;
+    height: 500px;
+    
+}
+
+.test-img {
+    border-radius: 100%;
+    width: 20%;
+}
+
+em {
+    margin-left: 1rem;
+}
+
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+#cta {
+    padding: 2rem;
+    text-align: center;
+    background-color: #5CDB95;
+}
+
+#footer {
+    text-align: center;
+}
+#footer p{
+    margin-top: 13px;
+}
