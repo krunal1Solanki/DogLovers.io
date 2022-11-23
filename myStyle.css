@@ -1,9 +1,20 @@
 
-/*
-@media (max-width : 1028px) {
+ 
+@media (max-width : 990px) {
+    #features {
+        height: 2000px;
+    }
+    #testimonials {
+        position: relative;
+    }
+    
+    .Doge{
+        margin-left: 25%;
+        margin-top: 17%;
+        width: 5%;
+    }
+} 
 
-}
-*/
 
 
 body {
