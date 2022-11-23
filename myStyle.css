@@ -1,21 +1,10 @@
-
- 
-@media (max-width : 990px) {
-    #features {
-        height: 2000px;
-    }
-    #testimonials {
-        position: relative;
-    }
-    
-    .Doge{
-        margin-left: 25%;
-        margin-top: 17%;
-        width: 5%;
+@media (max-width :992px) {
+    .Doge {
+        margin-left: 100px;
+        margin-top: 40px;
+        size: 10%;
     }
 } 
-
-
 
 body {
     font-family: 'Montserrat', sans-serif;
@@ -37,8 +26,8 @@ body {
     padding: 10rem 10.8rem 1rem 10.8rem;
     text-align: center;
     padding-top: 175px;
-    background-color: #dbece3;
-    height: 500px;   
+    background-color: #dbece3;    
+    min-height: 500px;   
 }
 
 .icon {
